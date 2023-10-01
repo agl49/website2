@@ -1,7 +1,12 @@
 .logo {
-    margin: auto;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  margin: auto;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   }
+
+.starSmaller {
+  stroke: white;
+  color: white;
+}
